@@ -33,7 +33,7 @@
   </circle>
   <text x="400" y="100" text-anchor="middle" font-family="Verdana, Geneva, sans-serif" font-size="52" font-weight="bold" letter-spacing="8" fill="url(#silver)">SUNNY TIWARI</text>
   <text x="400" y="145" text-anchor="middle" font-family="Courier New, monospace" font-size="17" fill="#a8a8a8" letter-spacing="3">
-    developer &#183; video editor &#183; KREATION
+    developer &#183; KREATION
     <animate attributeName="opacity" values="1;1;0.35;1;1" keyTimes="0;0.85;0.9;0.95;1" dur="3s" repeatCount="indefinite"/>
   </text>
   <g stroke="#c0c0c0" stroke-width="1.5" opacity="0.7">
