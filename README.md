@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.svg?v=2" alt="Sunny Tiwari - developer, KREATION" width="100%"/>
+  <img src="https://raw.githubusercontent.com/Sanny1921/sanny1921/288782bfe52efc4a93aa325dd1cca047a5db6a90/banner.svg" alt="Sunny Tiwari - developer, KREATION" width="100%"/>
 </p>
 
 <h3 align="center">Frontend developer, building in public from Patna, India.</h3>
