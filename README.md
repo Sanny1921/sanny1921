@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="banner.svg" alt="Sunny Tiwari - developer, video editor, KREATION" width="100%"/>
+  <img src="banner.svg" alt="Sunny Tiwari - developer, KREATION" width="100%"/>
 </p>
 
-<h3 align="center">Frontend developer & video editor, building in public from Patna, India.</h3>
+<h3 align="center">Frontend developer, building in public from Patna, India.</h3>
 
 <p align="center">
-  I run <b>KREATION</b> - a video editing & web studio - and ship small, real products.
+  I run <b>KREATION</b> - a web studio - and ship small, real products.
 </p>
 
 ---
@@ -17,7 +17,7 @@
 | [**Valor Cup**](https://valorcup.vercel.app) | Live site for my college league - teams, fixtures, points, results | React, Vercel |
 | [**Vanta**](https://vanta2-0.vercel.app) | Temporary chat rooms that expire - nothing stored; calls & voice notes | React, Socket.IO |
 | [**Prashant Pizza**](https://prashant-pizza-nu.vercel.app) | Redesign concept for a local pizza chain - cinematic intro, real menu, cart | JS, Vercel |
-| [**KREATION**](https://github.com/Sanny1921) | My editing & web studio - client sites, reels, SFX/typography | React, three.js |
+| [**KREATION**](https://github.com/Sanny1921) | My web studio - client sites and web apps | React, three.js |
 
 ---
 
